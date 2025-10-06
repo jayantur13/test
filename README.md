@@ -1,1 +1,4 @@
 # test
+
+<!--LATEST_RELEASES_START-->
+<!--LATEST_RELEASES_END-->
